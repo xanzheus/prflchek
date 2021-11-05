@@ -1,3 +1,3 @@
 Html Happy birthday
 
-demo : https://www.ichikaa.xyz/Happybirthday/
+demo : https://ichikaa.xyz/Happybirthday/
